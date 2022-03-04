@@ -10,11 +10,11 @@
 					<td style = "background-color:#fff;">
 						<h1>Metodologias de desenvolvimento agil</h1>
 						<p class= "txt">Neste exemplo pretende-se demonstrar as funcionalidades do GitHub :)</p>
-						 <h3>Formandos (main)</h3>
+						 <h3>Formandos</h3>
 							<ul>
-								<li>1</li>
-								<li>2</li>
-								<li>3</li>
+								<li>nome 1</li>
+								<li>nome 2</li>
+								<li>nome 3</li>
 							</ul>
 					</td>
 				</tr>
